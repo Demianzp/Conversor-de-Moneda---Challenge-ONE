@@ -21,9 +21,7 @@ El **Conversor de Monedas** permite a los usuarios ingresar una cantidad en una 
 - Java 11 o superior.
 - Conexión a internet para acceder a la API de tasas de cambio.
 
-## ⚙️ Instalación y Uso
-### 1. Clona el repositorio
-
+## ⚙️ Uso
 -Cuando ejecutes el programa, se te presentará un menú en la consola donde podrás elegir las monedas de origen y destino. El programa realizará la conversión utilizando las tasas de cambio más recientes y te mostrará el resultado.
 
 ## 📝 Notas
