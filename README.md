@@ -37,9 +37,10 @@ El **Conversor de Monedas** permite a los usuarios ingresar una cantidad en una 
 
 ## 🔧 Tecnologías Usadas
 
-- **Java 11+**
+- **Java 23 2024-09-17**
 - **API de ExchangeRate-API** (para tasas de cambio)
 - **Gson** (para analizar JSON)
+- **Postman** (para hacer pruebas sobre la API)
 
 ## 🌐 API Utilizada
 
